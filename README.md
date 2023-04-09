@@ -44,6 +44,11 @@ issue of fanout push is when user has large followers and issue in fanout pull i
 ## Yutube System Design
 <image src="assets/youtube.png" width="500"/>
 
+## Notes
+- NoSql database, I think used when large amount of data and is dependent not too much relations with other. Why Instagram using Postgree, I think because post is so much relations with other like comment, like etc. And not too flexible only image and video with caption nothing more. Besides that user can see their comments, with nosql i think that’s too complex. example:
+  - Chat
+  - Analytics Framework like MoEngage or Firebase Analytics
+
 ## Next
 Source: https://github.com/karanpratapsingh/system-design 
 - Chapter I
