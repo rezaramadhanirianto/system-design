@@ -41,6 +41,9 @@ issue of fanout push is when user has large followers and issue in fanout pull i
 ## Ecommerce System Design
 <image src="assets/ecommerce_system_design.png" width="500"/>
 
+## Yutube System Design
+<image src="assets/youtube.png" width="500"/>
+
 ## Next
 Source: https://github.com/karanpratapsingh/system-design 
 - Chapter I
