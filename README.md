@@ -38,6 +38,9 @@ When you send a new post, you creates a write request to the system. With fanout
 #### Hybrid
 issue of fanout push is when user has large followers and issue in fanout pull is when user has large following, that's why hybrid comes out, if let's say people that have more than 10K followers will go to fanout_pull otherwise go to fanout_push.
 
+## Ecommerce System Design
+<image src="assets/ecommerce_system_design.png" width="500"/>
+
 ## Next
 Source: https://github.com/karanpratapsingh/system-design 
 - Chapter I
