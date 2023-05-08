@@ -1,5 +1,7 @@
 # Image Loading
 
+<image src="assets/design.png" width="500"/>
+
 ## <a href="technical.md">Technical Documentation</a>
 
 ## Gathering Requirements
@@ -36,3 +38,6 @@ showHiResImage()
 ```
 
 ## <a href="imageloading/technical.md">Technical Documentation</a>
+
+## TODO
+- Http Client Caching
