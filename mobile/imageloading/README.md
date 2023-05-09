@@ -1,7 +1,5 @@
 # Image Loading
 
-<image src="assets/design.png" width="500"/>
-
 ## <a href="technical.md">Technical Documentation</a>
 
 ## Gathering Requirements
@@ -13,6 +11,14 @@
 - Do we need to cancel download image when app page remove?
 - Do we need to add dynamic image width and height?
 - It would be good to provide thumbnails, customizable placeholders, loading indicators, and transition animation for UI-targets - but we should probably leave it out of scope.
+
+<image src="assets/design.png" width="500"/>
+
+## Info
+- Image Request - encapsulates a single image request; accepted by request manager as input.
+- Request Manager - accepts and dispatches image requests to corresponding targets.
+- Image Loader - coordinates image loading from different source (filesystem, app resources, network).
+- Image Target - incapsulate image target destination (UI-element, in-memory image data, etc).
 
 ## Memory cache
 It would be 1/8 from available memory based on google docs <a href="https://developer.android.com/topic/performance/graphics/cache-bitmap#memory-cache">memory cache</a>.
