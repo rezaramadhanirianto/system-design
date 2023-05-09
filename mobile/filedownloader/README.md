@@ -17,3 +17,5 @@
 - Download Queue represent queue of list download with status like pending loading finished etc.
 - Download Manager represent component that reponsible to download from http save to disk and save info to local database.
 
+## Important Topics
+- To download file we should use work manager, because we want file still downloading while app in background
