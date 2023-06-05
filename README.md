@@ -8,7 +8,8 @@
   - Consistent: data is in a consistent state when a transaction starts and when it ends. for the example eventual consistent like: when upload video to youtube might be not available real time.
 
 ## Tips
-- Don't go too detail
+- Don't go too detail like what language and framework are we are going to use
+- Don't forget to clarify some question
 
 ## <a href="chatapp.md">Chat App System Design</a>
 ## <a href="urlshortener.md">URL Shortener</a>
