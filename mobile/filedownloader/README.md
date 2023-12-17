@@ -9,7 +9,7 @@
 - Do we need to support simultaneous file downloads like youtube playlist?
 - Do we need to handle authentication?
 
-<image src="assets/design.png" width="500"/>
+<image src="assets/system-design.png" width="500"/>
 
 ## Info
 - Download Task represent url to download with some listener as Download Listener using builder pattern
