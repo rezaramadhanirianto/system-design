@@ -3,6 +3,8 @@
 ## E2E Security
 End-to-End (E2E) encryption is a security measure that ensures that data is encrypted and can only be decrypted by the intended recipient. In the context of mobile communication, especially on Android devices, E2E encryption is often used to protect the privacy and security of user messages and calls.
 
+Besides messages and calls we can encrypt payment using this method I think.
+
 ```kotlin
 import android.util.Base64
 import javax.crypto.Cipher
