@@ -35,3 +35,7 @@ object EncryptionUtils {
 
 ## Local database encryption
 Popular local database encryption using sqlcipher.
+
+## References
+- <a href="https://developer.mastercard.com/platform/documentation/security-and-authentication/securing-sensitive-data-using-payload-encryption/">How Mastercard secure their payload request</a>
+- <a href="https://about.fb.com/news/2023/12/default-end-to-end-encryption-on-messenger/#:~:text=The%20extra%20layer%20of%20security,they%20reach%20the%20receiver's%20device.">How Messenger secure their chat</a>
