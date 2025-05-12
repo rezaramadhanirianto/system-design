@@ -53,6 +53,9 @@ High-level system design refers to the process of creating an abstract represent
 - 30 min - Deep Dive Each component
 - 5 - Q&A
 
+## Uber System Design
+<img src="https://github.com/user-attachments/assets/e41b198b-57a7-403d-9081-ab880ff69a9c" />
+
 ## TODO
 - https://gist.github.com/atierian/610538f39a4844881e20b673f4c8e8dc
 - https://medium.com/@anandgaur2207/android-system-design-interview-questions-and-answers-f6e713bd15de
