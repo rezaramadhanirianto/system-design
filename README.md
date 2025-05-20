@@ -12,3 +12,9 @@
 - Don't go too detail like what language and framework are we are going to use
 - Don't forget to clarify some question
 
+## Time Line
+- 3 min - Introduction
+- 7 min - Defining task, scope and requirements
+- 10 min - High Level Design
+- 30 min - Deep Dive Each component
+- 5 - Q&A

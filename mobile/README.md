@@ -46,13 +46,6 @@ High-level system design refers to the process of creating an abstract represent
   <img src="assets/hi-level-2.png" width="500">
 </center>
 
-## Time Line
-- 3 min - Introduction
-- 7 min - Defining task, scope and requirements
-- 10 min - High Level Design
-- 30 min - Deep Dive Each component
-- 5 - Q&A
-
 ## Uber System Design
 <img src="https://github.com/user-attachments/assets/e41b198b-57a7-403d-9081-ab880ff69a9c" />
 
