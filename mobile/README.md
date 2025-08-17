@@ -63,3 +63,7 @@ High-level system design refers to the process of creating an abstract represent
 
 ## TODO
 - https://gist.github.com/atierian/610538f39a4844881e20b673f4c8e8dc
+- https://medium.com/@anandgaur2207/android-system-design-interview-questions-and-answers-f6e713bd15de
+- https://medium.com/@YodgorbekKomilo/system-design-preparation-guide-for-medium-level-android-developers-dbeec85aeec4
+- https://medium.com/@engineervishvnath/android-system-design-for-interviews-crafting-a-google-photos-like-app-971dfb85ae59
+- https://medium.com/@engineervishvnath
