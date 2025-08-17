@@ -46,6 +46,14 @@ High-level system design refers to the process of creating an abstract represent
   <img src="assets/hi-level-2.png" width="500">
 </center>
 
+## Non Functional Requirements
+### More user base will make we have to check some condition
+- More edge cases
+  - Use error handling (e.g., safe API wrappers), and integrate tools like Crashlytics, DataDog Logger.
+- Security
+  - Apply obfuscation, secure local storage, avoid put secret key in the app.
+
+
 ## Time Line
 - 3 min - Introduction
 - 7 min - Defining task, scope and requirements
